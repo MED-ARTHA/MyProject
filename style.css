@@ -1,9 +1,14 @@
 h1{
-    color: bisque;
+    color: black;
 }
 body{
-    background-color: aqua;
+    background-color: blanchedalmond;
 }
 p{
-    color: blanchedalmond;
+    color: darkslateblue;
+}
+div{
+    color: black;
+    size: 2cm;
+    font-weight: 100;
 }
